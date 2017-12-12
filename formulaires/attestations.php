@@ -19,7 +19,7 @@
 					<hr>
 					<div class="alert alert-info text-center">
 						<h1>
-							<b>Attestations</b>
+							<b>Demande de documents (pour anciens étudiants)</b>
 						</h1>
 						<div class="alert alert-warning">
 							<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
@@ -62,19 +62,7 @@
 							</div>
 						</div>
 						<div class="form-group">
-							<label class="control-label col-sm-2" for="nom">Implantation(s) :<span style="color:#777777;" class="glyphicon glyphicon-asterisk"></span></label>
-							<div class="col-sm-4">
-								<label for="bruxelles" class="btn btn-info btn-lg btn-block"><B> BRUXELLES </B><input type="checkbox" id="bruxelles" name="bruxelles" value="Bruxelles" class="badgebox"></label>
-							</div>
-							<div class="col-sm-1">
-								<p class="form-control-static"><b>et/ou</b></p>
-							</div>
-							<div class="col-sm-4">
-								<label for="jodoigne" class="btn btn-info btn-lg btn-block"><B> JODOIGNE </B><input type="checkbox" id="jodoigne" name="jodoigne" value="Jodoigne" class="badgebox"></label>
-							</div>
-						</div>
-						<div class="form-group">
-							<label class="control-label col-sm-2" for="dn">Absence :<span style="color:#777777;" class="glyphicon glyphicon-asterisk"></span></label>
+							<label class="control-label col-sm-2" for="dn">Date de naissance :<span style="color:#777777;" class="glyphicon glyphicon-asterisk"></span></label>
 							<div class="col-sm-4">
 								<div class="input-group">
 									<span class="input-group-addon"><i><b>DU</b></i></span>
@@ -89,6 +77,33 @@
 							</div>
 						</div>
 						</div>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						<div class="form-group">
+							<label class="control-label col-sm-2" for="nom">Implantation(s) :<span style="color:#777777;" class="glyphicon glyphicon-asterisk"></span></label>
+							<div class="col-sm-4">
+								<label for="bruxelles" class="btn btn-info btn-lg btn-block"><B> BRUXELLES </B><input type="checkbox" id="bruxelles" name="bruxelles" value="Bruxelles" class="badgebox"></label>
+							</div>
+							<div class="col-sm-1">
+								<p class="form-control-static"><b>et/ou</b></p>
+							</div>
+							<div class="col-sm-4">
+								<label for="jodoigne" class="btn btn-info btn-lg btn-block"><B> JODOIGNE </B><input type="checkbox" id="jodoigne" name="jodoigne" value="Jodoigne" class="badgebox"></label>
+							</div>
+						</div>
+						
 						<div class="form-group">
 							<label class="control-label col-sm-2" for="commentaires">Commentaires :</label>
 							<div class="col-sm-9">
